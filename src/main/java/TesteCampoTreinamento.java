@@ -5,9 +5,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Dimension;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class TesteCampoTreinamento {
@@ -19,7 +17,7 @@ public class TesteCampoTreinamento {
 	public void inicializa(){
 		driver = new FirefoxDriver();
 		driver.manage().window().setSize(new Dimension(1200, 765));
-		driver.get("file:///" + System.getProperty("user.dir") + "/src/main/resources/componentes.html");
+		driver.get("file:///" + System.getProperty("user.dir") + "/src/main/resources/campo_treinamento/componentes.html");
 		dsl = new DSL(driver);
 	}
 	
@@ -108,6 +106,15 @@ public class TesteCampoTreinamento {
 		
 		Assert.assertEquals("Cuidado onde clica, muitas armadilhas...", 
 				dsl.obterTexto(By.className("facilAchar")));
+	}
+
+	@Test
+	public void testJavaScript(){
+		dsl.executarJs("document.getElementById('elementosForm:nome').value = 'Escrito via js'");
+		dsl.executarJs("document.getElementById('elementosForm:sobrenome').type = 'radio'");
+
+		WebElement element = driver.findElement(By.id("elementosForm:nome"));
+		dsl.executarJs("arguments[0].style.border = arguments[1]", element, "solid 4px red");
 	}
 	
 }
