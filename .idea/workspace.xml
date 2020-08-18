@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="105d9a62-336b-49a8-a33a-d76acac6cdb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/composerJson.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jmfci.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CampoTreinamentoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CampoTreinamentoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TesteCadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteCadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TesteCampoTreinamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteCampoTreinamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CampoTreinamentoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CampoTreinamentoPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteAlert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteCadastro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteCadastro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteCampoTreinamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteCampoTreinamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteFramesEJanelas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteFramesEJanelas.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gE9dnVOs1KN5UvEC85rH5wjjkH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestePrime.deveInteragirComRadioPrime">
+    <configuration name="TesteCadastro.deveRealizarCadastroComSucesso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boilerplate_tests_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCadastro" />
+      <option name="METHOD_NAME" value="deveRealizarCadastroComSucesso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCampoTreinamento.deveClicarBotaoTabela" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boilerplate_tests_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCampoTreinamento" />
+      <option name="METHOD_NAME" value="deveClicarBotaoTabela" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePrime.deveInteragirComRadioPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="curso_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestePrime" />
+      <option name="METHOD_NAME" value="deveInteragirComRadioPrime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteRegrasCadastro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boilerplate_tests_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteRegrasCadastro" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestePrime.deveInteragirComRadioPrime" />
+        <item itemvalue="JUnit.TesteCadastro.deveRealizarCadastroComSucesso" />
+        <item itemvalue="JUnit.TesteCampoTreinamento.deveClicarBotaoTabela" />
+        <item itemvalue="JUnit.TesteRegrasCadastro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\jmfci\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="105d9a62-336b-49a8-a33a-d76acac6cdb2" name="Default Changelist" comment="" />
+      <created>1597668974511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597668974511</updated>
+      <workItem from="1597668981701" duration="12840000" />
+      <workItem from="1597769449790" duration="8187000" />
+      <workItem from="1597782518018" duration="2803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597690458392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1366.209.1366.768@0.0.1920.1040" timestamp="1597690458392" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1597784720091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.209.1366.768@0.0.1920.1040" timestamp="1597784720091" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1597784720091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.209.1366.768@0.0.1920.1040" timestamp="1597784720091" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1597784720091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.209.1366.768@0.0.1920.1040" timestamp="1597784720091" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1597784720091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.209.1366.768@0.0.1920.1040" timestamp="1597784720091" />
+    <state x="461" y="165" width="1185" height="734" key="SettingsEditor" timestamp="1597771967043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" width="1185" height="734" key="SettingsEditor/0.0.1920.1040/-1366.209.1366.768@0.0.1920.1040" timestamp="1597771967043" />
+    <state x="888" y="85" key="extract.method.dialog" timestamp="1597777919592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="888" y="85" key="extract.method.dialog/0.0.1920.1040/-1366.209.1366.768@0.0.1920.1040" timestamp="1597777919592" />
+  </component>
+</project>
