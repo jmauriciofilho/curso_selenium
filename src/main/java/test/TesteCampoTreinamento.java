@@ -1,12 +1,18 @@
+package test;
+
 import java.util.Arrays;
 import java.util.List;
 
+import core.DSL;
+import core.DriverFactory;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
+
+import static core.DriverFactory.*;
 
 public class TesteCampoTreinamento {
 	
@@ -15,15 +21,13 @@ public class TesteCampoTreinamento {
 
 	@Before
 	public void inicializa(){
-		driver = new FirefoxDriver();
-		driver.manage().window().setSize(new Dimension(1200, 765));
-		driver.get("file:///" + System.getProperty("user.dir") + "/src/main/resources/campo_treinamento/componentes.html");
-		dsl = new DSL(driver);
+		getDriver().get("file:///" + System.getProperty("user.dir") + "/src/main/resources/campo_treinamento/componentes.html");
+		dsl = new DSL();
 	}
 	
 	@After
 	public void finaliza(){
-//		driver.quit();
+		killDriver();
 	}
 	
 	@Test
